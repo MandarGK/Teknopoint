@@ -1,0 +1,24 @@
+.fa{
+    
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+.card{
+    text-align: center;
+   
+}
+
+.container{
+    margin-left:14%;
+}
+
+
+.container1{
+  margin:2%;
+  font-size: x-large;
+}
+
+.img-top{
+  display:flexbox;
+}

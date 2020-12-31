@@ -1,0 +1,47 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* Main Styling */
+html,
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.7em;
+}
+.container-fluid {
+  padding-left:15%;
+  padding-right: 15%;
+  padding-bottom: 5%;
+}
+
+#contact-form .form-group {
+  margin-bottom: 20px;
+}
+#contact-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+#contact-form input,
+#contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  border: #ddd 1px solid;
+}
+#contact-form textarea {
+  height: 200px;
+}
+#contact-form input:focus,
+#contact-form textarea:focus {
+  outline: none;
+  border-color: #f7c08a;
+}
+.btn {
+    font-size:0.9rem;
+    padding: 4px;
+}
+
+.heading{
+    padding:10px 0 30px 0;
+}
